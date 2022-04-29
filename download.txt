@@ -1,0 +1,3 @@
+ npm install react-icons
+ npm install scrollreveal
+ npm install styled-components
